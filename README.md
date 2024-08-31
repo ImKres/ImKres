@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @ImKres
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, Deep Neural, and IoT
-- 🌱 I’m currently learning Amazon Web Service, Microsoft Azure, & Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Certified Azure Professional | Python Enthusiast | DevOps Advocate
 
-<!---
-ImKres/ImKres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+With 3 years of experience, I specialize in leveraging Azure's capabilities to build scalable, resilient applications and streamline processes through Python automation. I'm passionate about bridging the gap between development and operations, tackling challenges head-on, and exploring new horizons in the tech world. Let's connect and create something remarkable together!
